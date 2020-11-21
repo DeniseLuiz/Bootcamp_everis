@@ -1,0 +1,25 @@
+<<<<<<< HEAD
+/*
+RESPONSIVIDADE DO SITE 
+*/
+=======
+>>>>>>> parent of ae92f34... versão 1
+@media screen and (max-width:700px){
+    header .container{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .botao {
+        margin-top: 5px;
+        width: 200px;
+        height: 190;
+    }
+
+}
+
+@media screen and (min-width:1500px){
+    .descricao {
+        width: 50%;
+    }
+}
