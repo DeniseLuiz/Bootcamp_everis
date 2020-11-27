@@ -1,4 +1,4 @@
-                               ###### BOOTCAMP_EVERIS ######
+                               #### BOOTCAMP_EVERIS 
                                
 Atividades desenvolvidas no bootcamp da everis em parceria com a Digital Innovation One.
 
@@ -28,9 +28,9 @@ ________________________________________________________________________________
                                              COURSE MANAGER
 __________________________________________________________________________________________________________
 
-## Aplicação CRUD em Angular 8. 
-# Ao abir a aplicação iniciar com */ng-serve/*. Porta: 4200.
-# Back end em node.js. Iniciar com */node server.js/*. Porta: 3100.
+- Aplicação CRUD em Angular 8. 
+- Ao abir a aplicação iniciar com */ng-serve/*. Porta: 4200.
+- Back end em node.js. Iniciar com */node server.js/*. Porta: 3100.
 
 
 
