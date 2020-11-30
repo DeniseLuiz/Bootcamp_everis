@@ -29,10 +29,11 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________
 
 ## Aplicação CRUD em Angular 8. 
-#- Ambiente Local: execute ng serve para que o projeto suba localmente. Acesse a url http://localhost:4200/.
-#Simulando o Back-end
-Execute npm install -g json-server para instalar globalmente o servidor json. Após a instalação entre na pasta do projeto e execute json-server --watch db.json, com isso um servidor será inicializado na url http://localhost:3000/, após a inicialização sera possível realizar requisições http.
-- Back end em node.js. Iniciar com */node server.js/*. Porta: 3100.
+# - Ambiente Local:
+* execute ng serve para que o projeto suba localmente. Acesse a url http://localhost:4200/.
+
+# - Simulando o Back-end:
+* O back está localizado na pasta /course-manager-serve/. Execute o comando node server.js, com isso um servidor será inicializado na url http://localhost:3100/, após a inicialização sera possível realizar requisições http.
 
 
 
