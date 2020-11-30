@@ -28,11 +28,12 @@ ________________________________________________________________________________
                                              COURSE MANAGER
 __________________________________________________________________________________________________________
 
-## Aplicação CRUD em Angular 8. 
-# - Ambiente Local:
+# Aplicação CRUD em Angular 8. 
+
+- Ambiente Local:
 * execute ng serve para que o projeto suba localmente. Acesse a url http://localhost:4200/.
 
-# - Simulando o Back-end:
+- Simulando o Back-end:
 * O back está localizado na pasta /course-manager-serve/. Execute o comando node server.js, com isso um servidor será inicializado na url http://localhost:3100/, após a inicialização sera possível realizar requisições http.
 
 
