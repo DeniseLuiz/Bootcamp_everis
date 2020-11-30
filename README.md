@@ -29,7 +29,8 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________
 
 - Aplicação CRUD em Angular 8. 
-- Ao abir a aplicação iniciar com */ng-serve/*. Porta: 4200.
+#- Ambiente Local
+ Execute ng serve para que o projeto suba localmente. Acesse a url http://localhost:4200/.
 - Back end em node.js. Iniciar com */node server.js/*. Porta: 3100.
 
 
